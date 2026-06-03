@@ -1,3 +1,2 @@
-groq
-request
-fastAPI
+streamlit
+requests
