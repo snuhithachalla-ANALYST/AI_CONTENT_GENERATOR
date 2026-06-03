@@ -1,3 +1,20 @@
-# Ignore local environment files
+# Python environment
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
 BACKEND/.env
 FRONTEND/.streamlit/secrets.toml
+
+# VS Code settings and workspace files
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
